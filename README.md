@@ -14,6 +14,7 @@ This React app calculates the mortgage monthly payment.
   <li>
   To run the project:<br> 
   npm run build
+  <br>  
   npm start
   </li>
   <li>
